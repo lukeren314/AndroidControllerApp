@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidPad</string>
+    <string name="menuButton" translatable="false">Menu</string>
+</resources>
